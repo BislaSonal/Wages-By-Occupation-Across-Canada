@@ -16,4 +16,4 @@ To run the code for this project, follow these steps:
 
 >Run each of the 5 ipynb files separately, one by one. Close the previous file before running the next one to avoid any potential clashes or warnings, as the CSV file contains around 1 GB data that will take some time to run in chunks initially. Please be patient while running these files.
 
->Once the processing is complete, the code will generate offline charts in HTML files that will be saved to the "Project" folder automatically. You can view these charts in your web browser, as the code will also redirect to the browser and display the relevant graph for the research question.
+>Once the processing is complete, the code will generate offline charts in HTML files that will be saved to the "Project" folder automatically. You can view these charts in your web browser, as the code will also redirect to the browser and display the relevant graph for the particular research question.
